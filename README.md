@@ -1,2 +1,2 @@
 # OS-Miniproject
-This repository contains files of Dining Philosophers Problem using Monitors (SEM 4 Operating System Project) 
+This repository contains files of Snake and Ladder game in Java (SEM 4 Operating System Project) 
